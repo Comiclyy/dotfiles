@@ -7,6 +7,8 @@ open notepad
 create batch file or download it from the repo.
 enter the following into it:
 
+
+
 @echo off
 
 set /p comm=cmd~
@@ -14,6 +16,8 @@ set /p comm=cmd~
 %comm%
 
 goto a
+
+
 
 save it to desktop as cheese.bat
 run it
