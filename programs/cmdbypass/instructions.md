@@ -1,4 +1,4 @@
-***WINDOWS ONLY***
+**WINDOWS ONLY**
 
 How to open command prompt on non-admin account/school computer:
 
