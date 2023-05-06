@@ -9,12 +9,8 @@ enter the following into it:
 
 @echo off
 
-:a
-
 set /p comm=cmd~
-
 %comm%
-
 goto a
 
 save it to desktop as cheese.bat
