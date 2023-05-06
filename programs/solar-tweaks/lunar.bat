@@ -3,7 +3,7 @@
 echo LAUNCHING SOLAR TWEAKS...
 
 %USERPROFILE%\.lunarclient\solartweaks\jres\Zulu\bin\java.exe ^
--javaagent:"%USERPROFILE%\.lunarclient\solartweaks\solar-patcher.jar=%USERPROFILE%\.lunarclient\solartweaks\config.json" ^
+-javaagent:"%USERPROFILE%\.lunarclient\solartweaks\solar-engine.jar=%USERPROFILE%\.lunarclient\solartweaks\config.json" ^
 --add-modules jdk.naming.dns ^
 --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming ^
 -Djna.boot.library.path="%USERPROFILE%\.lunarclient\offline\1.8\natives" ^
