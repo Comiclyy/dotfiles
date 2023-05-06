@@ -4,7 +4,7 @@ How to open command prompt on non-admin account/school computer:
 
 open notepad
 
-create batch file
+create batch file or download it from the repo.
 enter the following into it:
 
 @echo off
