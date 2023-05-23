@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Do cheese"
+cat todo.txt
