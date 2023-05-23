@@ -1,2 +1,2 @@
 #!/bin/bash
-cat dothis.txt
+echo "lol"
