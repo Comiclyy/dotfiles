@@ -1,5 +1,5 @@
 print("        ")
-print(" {\\_/}  ")
+print(" {\\_/} ")
 print(" (●ᴗ●)  ")
 print(" ( >🥕  ")
 print("        ")
