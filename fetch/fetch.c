@@ -121,12 +121,13 @@ int main() {
         printf("Failed to retrieve IP address.\n");
         return 1;
     }
-
-    printf("\033[1;37m           \033[0mcpu  \033[38;5;208m%.2f%%\n", cpuPercentage);
-    printf("\033[1;37m   {\\_/}\033[0m   mem\033[38;5;208m  %d/%d MB\n", usedMemory, totalMemory);
-    printf("\033[1;37m   (●ᴗ●)\033[0m   dsk  \033[38;5;208m (%d%%)\n", usedDisk);
-    printf("\033[1;37m   ( >🥕)\033[0m  ip   \033[38;5;208m%s \033[38;5;202m(%s\033[38;5;208m)\n", ipAddress, operatingSystem);
-    printf("\033[1;37m           os   \033[38;5;208m Fedora\n");
+    printf("           \033[35mmax\033[1;37m@\033[0m\033[35mkinetic\033[0m\n");
+    printf("\033[1;37m           \033[0mcpu    \033[38;5;208m%.2f%%\n", cpuPercentage);
+    printf("\033[1;37m   {\\_/}\033[0m   mem  \033[38;5;208m  %d/%d MB\n", usedMemory, totalMemory);
+    printf("\033[1;37m   (●ᴗ●)\033[0m   dsk   \033[38;5;208m (%d%%)\n", usedDisk);
+    printf("\033[1;37m   ( >🥕)\033[0m  ip     \033[38;5;208m%s \033[38;5;202m(%s\033[38;5;208m)\n", ipAddress, operatingSystem);
+    printf("\033[1;37m           \033[0mdistro\033[38;5;208m Fedora\n");
+    printf("\033[0m\033[1;37m           shell\033[38;5;208m  bash\n ");
     printf("\033[0m"); // Reset color to default
 
 
