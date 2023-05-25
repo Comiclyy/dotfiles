@@ -1,1 +1,7 @@
-drink the apple
+Checkout charm.sh(website)
+https://github.com/charmbracelet
+install soft serve
+
+update website w inspiration from tenacity and charm
+
+
