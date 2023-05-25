@@ -1,6 +1,7 @@
 Checkout charm.sh(website)
 https://github.com/charmbracelet
 install soft serve(https://github.com/charmbracelet/soft-serve)
+install gum(https://github.com/charmbracelet/gum)
 
 update website w inspiration from tenacity and charm
 try out log(https://github.com/charmbracelet/log)
