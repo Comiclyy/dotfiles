@@ -1,6 +1,5 @@
 # dotfiles
 
-<h1></h1>
 
 These include:
 
