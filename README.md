@@ -13,7 +13,8 @@ wallpapers
 
 #fetch
 
-<img src=https://github.com/Comicly69/dotfiles/blob/main/assets/Screenshot%20from%202023-05-25%2018-00-24.png?raw=true>
+![Fetch](https://github.com/Comicly69/dotfiles/blob/main/assets/Screenshot%20from%202023-05-25%2018-00-24.png?raw)
+
 
 Fetch TODO: `curl -s https://raw.githubusercontent.com/Comicly69/dotfiles/main/todo/todo.txt | cat`
 
