@@ -9,6 +9,10 @@ Linux rices
 
 wallpapers
 
+# colors
+
+// coming soon
+
 # fetch 
 
 
