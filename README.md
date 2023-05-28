@@ -13,8 +13,16 @@ wallpapers
 
 // coming soon
 
-# fetch 
+# What I use
 
+- OS: [Fedora linux](https://fedoraproject.org)
+- Terminal: [xfce4-terminal](https://www.xfce.org)
+- Shell: [Bash](https://www.gnu.org/software/bash/)
+- Browser: [Firefox](https://www.mozilla.org/en-CA/firefox/products/)
+- Editor: [vscode](https://code.visualstudio.com)
+- Icons: [Unknown](https://ww.example.com)
+
+# fetch 
 
 ![Fetch](https://github.com/Comicly69/dotfiles/blob/main/assets/Screenshot%20from%202023-05-25%2018-00-24.png?raw)
 
