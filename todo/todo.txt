@@ -7,7 +7,5 @@ change color of name in website
 update website w inspiration from tenacity and charm
 try out log(https://github.com/charmbracelet/log)
 
-install gh-dash(github project manager)
-^require(https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode)
 cheese
 
