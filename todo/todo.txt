@@ -2,6 +2,7 @@
 Checkout charm.sh(website)
 https://github.com/charmbracelet
 install bashtop
+add configs to dots
 
 update website w inspiration from tenacity and charm
 try out log(https://github.com/charmbracelet/log)
