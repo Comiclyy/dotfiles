@@ -20,7 +20,7 @@ wallpapers
 - Shell: [Bash](https://www.gnu.org/software/bash/)
 - Browser: [Firefox](https://www.mozilla.org/en-CA/firefox/products/)
 - Editor: [vscode](https://code.visualstudio.com)
-- Icons: [Unknown](https://ww.example.com)
+- Icons: [Papirus-Dark](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 
 # fetch 
 
