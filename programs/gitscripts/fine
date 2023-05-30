@@ -13,7 +13,7 @@ function echo_command() {
   local command_name=$1
   local color_code=$2
   local reset="\e[0m"
-  echo -n -e "${color_code}RUNNING ${reset}${command_name} "
+  echo -e -n "${color_code}RUNNING ${reset}${command_name}\n"
 }
 
 # Check if argument is provided
@@ -21,44 +21,48 @@ if [[ $1 == "-s" ]]; then
   # Run git fetch
   echo_command "Fetch" "\e[1;32m"
   git fetch >/dev/null 2>&1
-  echo_color "" "\e[1;32m"
+  echo
 
   # Run git pull
   echo_command "Pull" "\e[1;32m"
   git pull >/dev/null 2>&1
-  echo_color "" "\e[1;32m"
+  echo
 
   # Run git add -A
   echo_command "Add" "\e[1;32m"
   git add -A >/dev/null 2>&1
-  echo_color "" "\e[1;32m"
+  echo
 
   # Run git commit -a
   echo_command "Commit" "\e[1;32m"
   echo -n -e "\e[0mEnter the commit message: "
   read commit_message
   git commit -a -m "$commit_message" >/dev/null 2>&1
-  echo_color "" "\e[1;32m"
+  echo
 
   # Run git push origin
   echo_command "Pushing" "\e[1;32m"
   git push origin >/dev/null 2>&1
-  echo_color "" "\e[1;32m"
+  echo
+
 else
   # Run git add -A
   echo_command "Add" "\e[1;32m"
   git add -A >/dev/null 2>&1
-  echo_color "" "\e[1;32m"
+  echo
 
   # Run git commit -a
   echo_command "Commit" "\e[1;32m"
   echo -n -e "\e[0mEnter the commit message: "
   read commit_message
   git commit -a -m "$commit_message" >/dev/null 2>&1
-  echo_color "" "\e[1;32m"
+  echo
 
   # Run git push origin
   echo_command "Pushing" "\e[1;32m"
   git push origin >/dev/null 2>&1
-  echo_color "" "\e[1;32m"
+  echo
 fi
+
+# Print "DONE" indicator in red and bold
+echo_color "DONE" "\e[1;31m"
