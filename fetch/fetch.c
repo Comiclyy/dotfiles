@@ -121,7 +121,7 @@ int main() {
         printf("Failed to retrieve IP address.\n");
         return 1;
     }
-    printf("           \033[38;5;208mmax\033[1;37m@\033[0m\033[38;5;208mkinetic\033[0m\n");
+    printf("           \033[38;5;208mmax\033[1;37m@\033[0m\033[38;5;208morange\033[0m\n");
     printf("\033[1;37m           \033[0mcpu    \033[38;5;208m%.2f%%\n", cpuPercentage);
     printf("\033[1;37m   {\\_/}\033[0m   mem  \033[38;5;208m  %d/%d MB\n", usedMemory, totalMemory);
     printf("\033[1;37m   (●ᴗ●)\033[0m   dsk   \033[38;5;208m (%d%%)\n", usedDisk);
