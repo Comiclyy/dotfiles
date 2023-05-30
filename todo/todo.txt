@@ -1,7 +1,6 @@
 
 Checkout charm.sh(website)
 https://github.com/charmbracelet
-install bashtop
 
 update website w inspiration from tenacity and charm
 try out log(https://github.com/charmbracelet/log)
