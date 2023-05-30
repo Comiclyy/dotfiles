@@ -24,11 +24,13 @@ wallpapers
 
 # fetch 
 
-![Fetch](https://github.com/Comicly69/dotfiles/blob/main/assets/Screenshot%20from%202023-05-25%2018-00-24.png?raw)
+![Fetch](https://github.com/Comicly69/dotfiles/blob/main/assets/terminal.png)
 
 
 Fetch TODO: `curl -s https://raw.githubusercontent.com/Comicly69/dotfiles/main/todo/todo.txt | cat`
 
+# rice
+![Image](https://raw.githubusercontent.com/Comicly69/dotfiles/main/assets/screen.png)
 
 
 # Notes:
