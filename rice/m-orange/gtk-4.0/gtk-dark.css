@@ -152,7 +152,7 @@ label.osd {
 }
 
 .error {
-  color: #F44336;
+  color: hsl(4, 90%, 58%);
 }
 
 .large-title {
