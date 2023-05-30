@@ -47,4 +47,4 @@ USE THE GREEN RICE FOR RERICING AS IT IS ALL ONE COLOR
 
 # Notes:
 
-unless prefixed with "m-" all rices are not owned by me, all credit go to their respectful owners
+none 
