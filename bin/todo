@@ -1,0 +1,4 @@
+curl -s "https://raw.githubusercontent.com/Comicly69/dotfiles/main/todo/todo.txt?$(date +%s)" | cat
+
+
+
