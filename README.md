@@ -33,10 +33,15 @@ Fetch TODO: `curl -s https://raw.githubusercontent.com/Comicly69/dotfiles/main/t
 ![Image](https://raw.githubusercontent.com/Comicly69/dotfiles/main/assets/screen.png)
 
 How to change colors:
+
 go to gnome-shell
+
 find gnome-shell.css
+
 Change any colors with the same colors as the colors in shell-link (use ctrl-f and search for shell-link)
+
 and change line 251 with the rgb of your color
+
 USE THE GREEN RICE FOR RERICING AS IT IS ALL ONE COLOR
 
 
