@@ -29,6 +29,8 @@ wallpapers
 
 Fetch TODO: `curl -s https://raw.githubusercontent.com/Comicly69/dotfiles/main/todo/todo.txt | cat`
 
+# rice
+![Screen](https://raw.githubusercontent.com/Comicly69/dotfiles/main/assets/images/screen.png?raw)
 
 
 # Notes:
