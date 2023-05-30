@@ -53,7 +53,7 @@ else
 
   # Run git commit -a
   echo_command "Commit" "\e[1;32m"
-  echo -n -e "\e[0mEnter the commit message: "
+  echo -n -e "\n\e[0mEnter the commit message: "
   read commit_message
   git commit -a -m "$commit_message" >/dev/null 2>&1
   echo
