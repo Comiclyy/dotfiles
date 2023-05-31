@@ -30,9 +30,6 @@ Light pink(coming in next release)
 
 ![Fetch](https://github.com/Comicly69/dotfiles/blob/main/assets/terminal.png)
 
-
-Fetch TODO: `curl -s https://raw.githubusercontent.com/Comicly69/dotfiles/main/todo/todo.txt | cat`
-
 # rice
 ![Image](https://raw.githubusercontent.com/Comicly69/dotfiles/main/assets/screen.png)
 
@@ -46,8 +43,9 @@ Change any colors with the same colors as the colors in shell-link (use ctrl-f a
 
 and change line 251 with the rgb of your color
 
-USE THE GREEN RICE FOR RERICING AS IT IS ALL ONE COLOR
+Use the green rice when changing the colors because it is all one color
 
+Fetch TODO: `curl -s https://raw.githubusercontent.com/Comicly69/dotfiles/main/todo/todo.txt | cat`
 
 # Notes:
 
