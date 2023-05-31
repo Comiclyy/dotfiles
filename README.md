@@ -37,7 +37,7 @@ Light pink(coming in next release)
 # rice
 ![Image](https://raw.githubusercontent.com/Comicly69/dotfiles/main/assets/screen.png)
 
-How to change colors:
+# How to change colors:
 
 go to gnome-shell
 
