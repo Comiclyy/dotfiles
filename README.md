@@ -12,9 +12,13 @@ wallpapers
 # colors
 
 Current colors:
+
 Orange
+
 Green(Coming in next release)
+
 Dark pink(coming in next release)
+
 Light pink(coming in next release)
 
 # What I use
