@@ -1,9 +1,9 @@
 # dotfiles
 
 
-These include:
+Everything included:
 
-Programs/Scripts that I use
+Programs/Scripts that I use/made
 
 Linux rices
 
