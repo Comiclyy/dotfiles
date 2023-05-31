@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Check if theme name is provided
+if [ -z "$1" ]; then
+  echo "Error: Theme name is missing."
+  exit 1
+fi
+
+# Set the theme using gsettings
+gsettings set org.gnome.shell.extensions.user-theme name "$1"
+
+echo "Theme set to: $1"
