@@ -11,7 +11,10 @@ wallpapers
 
 # colors
 
-// coming soon
+Current colors:
+Orange
+Dark pink(coming in next release)
+Light pink(coming in next release)
 
 # What I use
 
