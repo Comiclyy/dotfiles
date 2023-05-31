@@ -1,6 +1,7 @@
 
 Checkout charm.sh(website)
 https://github.com/charmbracelet
+make funny ip tool
 
 update website w inspiration from tenacity and charm
 try out log(https://github.com/charmbracelet/log)

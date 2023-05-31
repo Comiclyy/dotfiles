@@ -41,11 +41,6 @@ if [[ $1 == "-s" ]]; then
   fi
   echo
 
-  # Run git status
-  echo_command "Status" "\e[1;32m"
-  git status --porcelain | awk '$1 != "??"{print $0}'
-  echo
-
   # Run git add -A
   echo_command "Add" "\e[1;32m"
   if ! git add -A >/dev/null 2>&1; then
@@ -104,11 +99,6 @@ else
   fi
   echo
 fi
-
-# Run git status
-echo_command "Status" "\e[1;32m"
-git status --porcelain | awk '$1 != "??"{print $0}'
-echo
 
 # Print "DONE" indicator in red and bold
 echo_color "DONE" "\e[1;31m"
