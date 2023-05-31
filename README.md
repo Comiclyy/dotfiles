@@ -49,7 +49,18 @@ and change line 251 with the rgb of your color
 
 Use the green rice when changing the colors because it is all one color
 
+# todo
+
 Fetch TODO: `curl -s https://raw.githubusercontent.com/Comicly69/dotfiles/main/todo/todo.txt | cat`
+
+# flux
+
+Flux is a program for automatically running git commands to commit, push and such easily. Currently flux is very simple and just uses one arugment, if you type flux -s it will fetch the HEAD remote repo
+from github and merge before commiting. if you run it without -s it will just run without syncing to HEAD.
+
+# theme
+
+A tool to switch gnome-shell themes. Type `theme <theme>` to change the theme. for example run `theme orange` to change the theme to orange
 
 # Notes:
 
