@@ -15,11 +15,11 @@ Current colors:
 
 Orange
 
-Green(Coming in next release)
+Green
 
-Dark pink(coming in next release)
+Dark pink
 
-Light pink(coming in next release)
+Light pink
 
 # What I use
 
