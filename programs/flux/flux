@@ -95,6 +95,11 @@ elif [[ $1 == "-v" ]]; then
   fi
   echo
 
+  # Run git status
+  echo_command "Status" "\e[1;32m"
+  git status --porcelain | awk '$1 != "??"{print $0}'
+  echo
+
   # Run git commit -a
   echo_command "Commit" "\e[1;32m"
   echo -n -e "\n\e[0mEnter the commit message: "
