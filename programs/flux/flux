@@ -68,4 +68,4 @@ if [[ $1 == "-s" ]]; then
 fi
 
 # Print "DONE" indicator in red and bold
-echo_color "DONE" "\e[1;31m"
+echo_color "/nDONE" "\e[1;31m"
