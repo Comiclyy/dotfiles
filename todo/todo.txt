@@ -10,6 +10,8 @@ material icon theme
 Bracket Pair Colorization Toggler extention
 Error Lens extention
 git graph extention
+try out https://hoppscotch.io/ (api app)
+try out https://medusajs.com/ (shopify alt)
 
 cheese
 
