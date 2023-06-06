@@ -4,7 +4,12 @@ https://github.com/charmbracelet
 make funny ip tool
 
 update website w inspiration from tenacity and charm
-try out log(https://github.com/charmbracelet/log)
+vscode to try:
+andromeda theme
+material icon theme
+Bracket Pair Colorization Toggler extention
+Error Lens extention
+git graph extention
 
 cheese
 
