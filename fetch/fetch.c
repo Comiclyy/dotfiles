@@ -5,6 +5,15 @@
 #include <ifaddrs.h>
 #include <netinet/in.h>
 #include <arpa/inet.h>
+#include <dirent.h>
+#include <time.h>
+#include <dirent.h>
+#include <sys/stat.h>
+
+// Function to generate a random number between min and max (inclusive)
+int generateRandomNumber(int min, int max) {
+    return min + rand() % (max - min + 1);
+}
 
 // Function to retrieve CPU usage on Linux-based systems
 float getCPUUsage() {
@@ -91,7 +100,19 @@ int getIPAddress(char* ipAddress) {
             sa = (struct sockaddr_in *)ifa->ifa_addr;
             addr = inet_ntoa(sa->sin_addr);
             if (strcmp(ifa->ifa_name, "lo") != 0) {
-                strcpy(ipAddress, addr);
+                // Split IP address into four parts
+                int part1, part2, part3, part4;
+                sscanf(addr, "%d.%d.%d.%d", &part1, &part2, &part3, &part4);
+
+                // Generate random numbers to scramble IP address
+                srand(time(NULL));
+                part1 = generateRandomNumber(0, 255);
+                part2 = generateRandomNumber(0, 255);
+                part3 = generateRandomNumber(0, 255);
+                part4 = generateRandomNumber(0, 255);
+
+                // Store scrambled IP address
+                snprintf(ipAddress, INET_ADDRSTRLEN, "%d.%d.%d.%d", part1, part2, part3, part4);
                 break;
             }
         }
@@ -101,8 +122,49 @@ int getIPAddress(char* ipAddress) {
     return 1;
 }
 
+// Function to retrieve the Linux distribution
+int getLinuxDistribution(char* distribution) {
+    FILE* file = fopen("/etc/os-release", "r");
+    if (file == NULL) {
+        printf("Failed to open /etc/os-release file.\n");
+        return 0;
+    }
+
+    char buffer[256];
+    while (fgets(buffer, sizeof(buffer), file)) {
+        if (strncmp(buffer, "PRETTY_NAME", 11) == 0) {
+            char* start = strchr(buffer, '=');
+            if (start != NULL) {
+                start++;
+                char* end = strchr(start, '\n');
+                if (end != NULL) {
+                    *end = '\0';  // Null-terminate the line
+                    char* quoteStart = strchr(start, '"');
+                    if (quoteStart != NULL) {
+                        quoteStart++;  // Move past the opening quote
+                        char* quoteEnd = strchr(quoteStart, ' ');
+                        if (quoteEnd != NULL) {
+                            *quoteEnd = '\0';  // Null-terminate at the space
+                            strcpy(distribution, quoteStart);
+                            fclose(file);
+                            return 1;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    fclose(file);
+    return 0;
+}
+
 int main() {
-    const char* operatingSystem = "Fedora";
+    char operatingSystem[256];
+    if (!getLinuxDistribution(operatingSystem)) {
+        printf("Failed to retrieve Linux distribution.\n");
+        return 1;
+    }
 
     float cpuPercentage = getCPUUsage();
     int usedMemory, totalMemory;
@@ -121,16 +183,15 @@ int main() {
         printf("Failed to retrieve IP address.\n");
         return 1;
     }
+
     printf("           \033[38;5;208mmax\033[1;37m@\033[0m\033[38;5;208morange\033[0m\n");
     printf("\033[1;37m           \033[0mcpu    \033[38;5;208m%.2f%%\n", cpuPercentage);
     printf("\033[1;37m   {\\_/}\033[0m   mem  \033[38;5;208m  %d/%d MB\n", usedMemory, totalMemory);
     printf("\033[1;37m   (●ᴗ●)\033[0m   dsk   \033[38;5;208m (%d%%)\n", usedDisk);
-    printf("\033[1;37m   ( >🥕)\033[0m  ip     \033[38;5;208m%s \033[38;5;202m\033[38;5;208m\n", ipAddress);
-    printf("\033[1;37m           \033[0mdistro\033[38;5;208m Fedora\n");
-    printf("\033[0m\033[1;37m           shell\033[38;5;208m  bash\n ");
+    printf("\033[1;37m   ( >🥕)\033[0m  ip     \033[38;5;208m%s \033[38;5;202m\033[38;5;208m\n\033[0m", ipAddress);
+    printf("\033[1;37m           \033[0mdistro\033[38;5;208m %s\n", operatingSystem);
+    printf("\033[0m\033[1;37m           \033[0mshell\033[0m  \033[38;5;208mbash\n ");
     printf("\033[0m"); // Reset color to default
-
-
 
     return 0;
 }
