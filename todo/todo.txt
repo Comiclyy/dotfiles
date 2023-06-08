@@ -4,6 +4,7 @@ https://github.com/charmbracelet
 make funny ip tool
 add fonts to dots
 local image type modifer
+add more animals to fetch ascii
 
 update website w inspiration from tenacity and charm
 vscode to try:
