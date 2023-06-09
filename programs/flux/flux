@@ -65,6 +65,24 @@ if [[ $1 == "-s" ]]; then
     echo_error "Error: Failed to push changes to remote repository."
     exit 1
   fi
+elif [[ $1 == "sync" ]]; then
+  # Run git fetch
+  echo_command "Fetch" "\e[1;32m"
+  if ! git fetch >/dev/null 2>&1; then
+    echo_error "Error: Failed to fetch changes from remote repository."
+    exit 1
+  fi
+  echo
+
+  # Run git pull
+  echo_command "Pull" "\e[1;32m"
+  if ! git pull >/dev/null 2>&1; then
+    echo_error "Error: Failed to pull changes from remote repository."
+    exit 1
+  fi
+else
+  echo "Invalid argument. Please provide '-s' or 'sync' as an argument."
+  exit 1
 fi
 
 # Print "DONE" indicator in red and bold

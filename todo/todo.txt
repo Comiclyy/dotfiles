@@ -5,8 +5,6 @@ make funny ip tool
 add fonts to dots
 local image type modifer
 add more animals to fetch ascii
-Add code description to github profile (Amazingakai) do next
-
 
 update website w inspiration from tenacity and charm
 vscode to try:
