@@ -62,11 +62,8 @@ Install the config:
 
 Move the files to polybar config:
 
-`cd polybar-config
-
-mv * ~/.config/polybar/
-
-`
+`cd polybar-config`
+`mv * ~/.config/polybar/`
 
 
 restart polybar:
