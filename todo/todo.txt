@@ -13,5 +13,5 @@ vscode to try:
 try out https://hoppscotch.io/ (api app)
 try out https://medusajs.com/ (shopify alt)
 
-cheese
+scheese
 
