@@ -54,9 +54,11 @@ Debian: `sudo apt install polybar`
 
 Arch (btw): `sudo pacman -S polybar`
 
+
 Install the config:
 
 `wget` (Coming soon)
+
 
 Move the files to polybar config:
 
@@ -65,9 +67,12 @@ Move the files to polybar config:
 mv * ~/.config/polybar/
 
 `
+
+
 restart polybar:
 
 `killall polybar`
+
 
 Start it again
 
