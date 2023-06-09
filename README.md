@@ -39,23 +39,38 @@ Light pink
 
 # bar
 I currently have 2 bars that I use. One comes with my rice (gnome-shell) and the other is a polybar rice. 
+
 The polybar rice is a modified version of the Material bar from a collection of polybars, if you wish to look at them, I will link the repo below
+
 -[Polybar collections repo](https://github.com/Murzchnvok/polybar-collection)
+
 To install the polybar, Install base polybar with the following
+
 Install polybar:
+
 Fedora: `sudo dnf install polybar`
+
 Debian: `sudo apt install polybar`
+
 Arch (btw): `sudo pacman -S polybar`
+
 Install the config:
+
 `wget` (Coming soon)
+
 Move the files to polybar config:
+
 `cd polybar-config
+
 mv * ~/.config/polybar/
+
 `
 restart polybar:
+
 `killall polybar`
 
 Start it again
+
 `polybar`
 
 # How to change colors:
