@@ -42,7 +42,7 @@ I currently have 2 bars that I use. One comes with my rice (gnome-shell) and the
 
 The polybar rice is a modified version of the Material bar from a collection of polybars, if you wish to look at them, I will link the repo below
 
--[Polybar collections repo](https://github.com/Murzchnvok/polybar-collection)
+![Polybar collections repo](https://github.com/Murzchnvok/polybar-collection)
 
 To install the polybar, Install base polybar with the following
 
