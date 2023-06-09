@@ -6,7 +6,6 @@ add fonts to dots
 local image type modifer
 add more animals to fetch ascii
 Add code description to github profile (Amazingakai) do next
-Add polybar stuff to readme (add options and install. Notes about copy)
 
 
 update website w inspiration from tenacity and charm
