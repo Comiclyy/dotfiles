@@ -7,7 +7,8 @@ local image type modifer
 add more animals to fetch ascii
 create whatis command for terminal "uses a ai api to look up what something is"
 work on about > add more features, make website look nice, add to comicly.is-a.dev
-fix nodejs index.js file not loading. in about, check chrome console
+move about text on about website, remove italcs on the text and fix the about user prompt moving alot. 
+change colors on text boxes.
 
 
 update website w inspiration from tenacity and charm
