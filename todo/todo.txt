@@ -8,9 +8,12 @@ its trying to ref the one in other repo, modify hardlocks, dont push with uri sh
 fix mongodb connect on website
 do stuff from mod todo notes
 work on type
-https://github.com/chubin/cheat.sh
 
 update website w inspiration from tenacity and charm
+
+Tools to try:
+https://github.com/chubin/cheat.sh
+
 vscode to try:
 try out https://hoppscotch.io/ (api app)
 try out https://medusajs.com/ (shopify alt)
