@@ -9,7 +9,8 @@ create whatis command for terminal "uses a ai api to look up what something is"
 work on about > add more features, make website look nice, add to comicly.is-a.dev
 fix errors when trying to add to comicly.is-a.dev use ai its weird to try to fix?
 its trying to ref the one in other repo, modify hardlocks, dont push with uri shown
-
+fix mongodb connect on website
+create type command that fetches file type from path
 
 update website w inspiration from tenacity and charm
 vscode to try:
