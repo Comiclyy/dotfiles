@@ -8,6 +8,7 @@ its trying to ref the one in other repo, modify hardlocks, dont push with uri sh
 fix mongodb connect on website
 do stuff from mod todo notes
 work on type
+create flux status command
 
 update website w inspiration from tenacity and charm
 
