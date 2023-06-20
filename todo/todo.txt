@@ -9,6 +9,7 @@ fix mongodb connect on website
 do stuff from mod todo notes
 work on type
 create flux status command
+better free command (show available and used memory"
 
 update website w inspiration from tenacity and charm
 
