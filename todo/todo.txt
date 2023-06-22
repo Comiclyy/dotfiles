@@ -34,8 +34,13 @@ https://github.com/rose-pine/xfce-terminal
 editor themes:
 https://github.com/XXiaoA/nvimrc (nvim)
 
+Ranger:
+- ragner (https://github.com/ranger/ranger) 
+    - config
+        - 0bCdian
+        - https://github.com/0bCdian/Hyprland_dotfiles/tree/Cozy_Gruvbox/ranger
+
 Tools to try
-https://github.com/ranger/ranger (terminal file explorer)
 Try to rice dolphin (gui file explorer)
 neovim(try with rosepine theme)
 https://extensions.gnome.org/extension/3193/blur-my-shell/ (blur, might fix weird blur terminal issue)
