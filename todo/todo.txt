@@ -17,6 +17,11 @@ https://github.com/gh0stzk/dotfiles (poly I think)
 https://github.com/Abaan404/dotfiles (waybar)
 https://github.com/linuxmobile/hyprland-dots/tree/Sakura (waybar) (/.config/waybar)
 
+- eww
+    - config
+        - anantrg
+        - https://github.com/anantnrg/hypr_eww/tree/main/.config/eww
+
 update website w inspiration from tenacity and charm
 
 themes to try:
