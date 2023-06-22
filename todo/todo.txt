@@ -11,14 +11,17 @@ better free command "show available and used memory"
 modify fetch to hide fedora as distro.
 Change up fetch w inspo from unixp
 
+bar to try:
+https://github.com/L4ze3/Polybar
+
 update website w inspiration from tenacity and charm
 
 Tools to try:
 https://github.com/chubin/cheat.sh
 
-vscode to try:
+other to try:
 try out https://hoppscotch.io/ (api app)
 try out https://medusajs.com/ (shopify alt)
 
-scheese
+zaza
 
