@@ -7,9 +7,9 @@ fix errors when trying to add to comicly.is-a.dev use ai its weird to try to fix
 its trying to ref the one in other repo, modify hardlocks, dont push with uri shown
 fix mongodb connect on website
 do stuff from mod todo notes
-work on type
-create flux status command
-better free command (show available and used memory"
+better free command "show available and used memory"
+modify fetch to hide fedora as distro.
+Change up fetch w inspo from unixp
 
 update website w inspiration from tenacity and charm
 
