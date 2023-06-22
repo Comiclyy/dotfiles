@@ -37,6 +37,7 @@ https://extensions.gnome.org/extension/3628/arcmenu/ (gnome app launcher)
 https://github.com/chubin/cheat.sh
 
 unixp posts:
+https://www.reddit.com/r/unixporn/comments/10hshdl/hyprland_updated_to_2023/?utm_source=share&utm_medium=web2x&context=3
 https://www.reddit.com/r/unixporn/comments/13s0k2t/hyprland_first_rice_tried_to_pywal_everything_d/
 
 other to try:
