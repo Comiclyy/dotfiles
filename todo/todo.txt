@@ -24,6 +24,9 @@ https://github.com/rose-pine/vscode
 rosepinetheme.com
 https://github.com/rose-pine
 
+dots to try:
+https://github.com/brucewayne260/my-awesomewm-dotfiles (cool bar, havent checked out anything else)
+
 terminal themes:
 https://github.com/rose-pine/xfce-terminal
 
@@ -37,6 +40,7 @@ https://extensions.gnome.org/extension/3628/arcmenu/ (gnome app launcher)
 https://github.com/chubin/cheat.sh
 
 unixp posts:
+https://www.reddit.com/r/unixporn/comments/13r6dbj/awesome_adding_unnecessary_sound_effects_to_button/
 https://www.reddit.com/r/unixporn/comments/10hshdl/hyprland_updated_to_2023/?utm_source=share&utm_medium=web2x&context=3
 https://www.reddit.com/r/unixporn/comments/13s0k2t/hyprland_first_rice_tried_to_pywal_everything_d/
 
