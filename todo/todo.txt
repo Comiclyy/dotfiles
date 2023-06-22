@@ -17,7 +17,13 @@ https://github.com/gh0stzk/dotfiles
 
 update website w inspiration from tenacity and charm
 
-Tools to try:
+themes to try:
+https://github.com/rose-pine/vscode
+rosepinetheme.com
+https://github.com/rose-pine
+
+Tools to try
+neovim(try with rosepine theme)
 https://extensions.gnome.org/extension/3193/blur-my-shell/ (blur, might fix weird blur terminal issue)
 https://extensions.gnome.org/extension/3628/arcmenu/ (gnome app launcher) 
 https://github.com/chubin/cheat.sh
