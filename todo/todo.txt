@@ -15,6 +15,7 @@ bar to try:
 https://github.com/L4ze3/Polybar (poly)
 https://github.com/gh0stzk/dotfiles (poly I think)
 https://github.com/Abaan404/dotfiles (waybar)
+https://github.com/linuxmobile/hyprland-dots/tree/Sakura (waybar) (/.config/waybar)
 
 update website w inspiration from tenacity and charm
 
