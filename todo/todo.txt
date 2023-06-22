@@ -25,6 +25,7 @@ rosepinetheme.com
 https://github.com/rose-pine
 
 dots to try:
+https://github.com/gh0stzk/dotfiles/tree/master (cool rices, made for arch, needs manual porting)
 https://github.com/brucewayne260/my-awesomewm-dotfiles (cool bar, havent checked out anything else)
 
 terminal themes:
