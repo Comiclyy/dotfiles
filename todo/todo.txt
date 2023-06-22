@@ -35,6 +35,9 @@ https://extensions.gnome.org/extension/3193/blur-my-shell/ (blur, might fix weir
 https://extensions.gnome.org/extension/3628/arcmenu/ (gnome app launcher) 
 https://github.com/chubin/cheat.sh
 
+unixp posts:
+https://www.reddit.com/r/unixporn/comments/13s0k2t/hyprland_first_rice_tried_to_pywal_everything_d/
+
 other to try:
 try out https://hoppscotch.io/ (api app)
 https://github.com/SatoTsukasaCode/Nighty/tree/main (alacritty terminal conf)
