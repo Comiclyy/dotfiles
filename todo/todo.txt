@@ -35,6 +35,8 @@ editor themes:
 https://github.com/XXiaoA/nvimrc (nvim)
 
 Tools to try
+https://github.com/ranger/ranger (terminal file explorer)
+Try to rice dolphin (gui file explorer)
 neovim(try with rosepine theme)
 https://extensions.gnome.org/extension/3193/blur-my-shell/ (blur, might fix weird blur terminal issue)
 https://extensions.gnome.org/extension/3628/arcmenu/ (gnome app launcher) 
