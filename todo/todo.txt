@@ -45,6 +45,29 @@ https://www.reddit.com/r/unixporn/comments/13r6dbj/awesome_adding_unnecessary_so
 https://www.reddit.com/r/unixporn/comments/10hshdl/hyprland_updated_to_2023/?utm_source=share&utm_medium=web2x&context=3
 https://www.reddit.com/r/unixporn/comments/13s0k2t/hyprland_first_rice_tried_to_pywal_everything_d/
 
+Rices:
+- gh0stzk
+    - emilia(https://user-images.githubusercontent.com/67278339/221425420-4198afbb-fd7a-41a1-96f2-42c2c715f076.png)
+      - TOP
+      - Good floating tile bar, gaps on side
+      - rice folder : https://github.com/gh0stzk/dotfiles/tree/ccb232c54a1801444f933b8c413e8021473f32ef/config/bspwm/rices/emilia
+
+    - cynthia(https://user-images.githubusercontent.com/67278339/221425853-ce5af1fe-f03d-48cc-a4d3-445adbe3e566.png)
+      - TOP
+      - Good flat bar, works well for floating/fullscreen modes. No gaps
+      - rice folder: https://github.com/gh0stzk/dotfiles/tree/ccb232c54a1801444f933b8c413e8021473f32ef/config/bspwm/rices/cynthia
+
+    -  pamela(https://user-images.githubusercontent.com/67278339/221426076-9aae13b0-0f1e-430a-b53a-80d0d9cfa2a4.png)
+      - TOP
+      - Tiled bar, could work for tile and floating, small gaps on side.
+      - rice folder: https://github.com/gh0stzk/dotfiles/tree/ccb232c54a1801444f933b8c413e8021473f32ef/config/bspwm/rices/pamela
+
+    - isabel(https://user-images.githubusercontent.com/67278339/221425915-55c6b711-9456-4b60-a1a2-8a986e45e2c4.png)
+      - BOTTOM
+      - Flat bar, works kind of like a taskbar, no gaps
+      - rice folder: https://github.com/gh0stzk/dotfiles/tree/ccb232c54a1801444f933b8c413e8021473f32ef/config/bspwm/rices/isabel
+-
+
 other to try:
 try out https://hoppscotch.io/ (api app)
 https://github.com/SatoTsukasaCode/Nighty/tree/main (alacritty terminal conf)
