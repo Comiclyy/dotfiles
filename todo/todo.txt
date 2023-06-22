@@ -1,15 +1,13 @@
 
-add fonts to dots
 local image type modifer
 create whatis command for terminal "uses a ai api to look up what something is"
-work on about > add more features, make website look nice, add to comicly.is-a.dev
-fix errors when trying to add to comicly.is-a.dev use ai its weird to try to fix?
-its trying to ref the one in other repo, modify hardlocks, dont push with uri shown
 fix mongodb connect on website
 do stuff from mod todo notes
 better free command "show available and used memory"
 modify fetch to hide fedora as distro.
 Change up fetch w inspo from unixp
+add icons with nerdfont to fetch (make two versions)
+remove distro refrences from dots, fetch, linux
 
 bar to try:
 https://github.com/L4ze3/Polybar
@@ -33,7 +31,6 @@ https://github.com/chubin/cheat.sh
 
 other to try:
 try out https://hoppscotch.io/ (api app)
-try out https://medusajs.com/ (shopify alt)
 https://github.com/SatoTsukasaCode/Nighty/tree/main (alacritty terminal conf)
 
 zaza
