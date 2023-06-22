@@ -22,6 +22,9 @@ https://github.com/rose-pine/vscode
 rosepinetheme.com
 https://github.com/rose-pine
 
+terminal themes:
+https://github.com/rose-pine/xfce-terminal
+
 Tools to try
 neovim(try with rosepine theme)
 https://extensions.gnome.org/extension/3193/blur-my-shell/ (blur, might fix weird blur terminal issue)
