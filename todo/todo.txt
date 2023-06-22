@@ -17,6 +17,8 @@ https://github.com/L4ze3/Polybar
 update website w inspiration from tenacity and charm
 
 Tools to try:
+https://extensions.gnome.org/extension/3193/blur-my-shell/ (blur, might fix weird blur terminal issue)
+https://extensions.gnome.org/extension/3628/arcmenu/ (gnome app launcher) 
 https://github.com/chubin/cheat.sh
 
 other to try:
