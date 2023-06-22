@@ -33,9 +33,11 @@ dots to try:
 https://github.com/gh0stzk/dotfiles/tree/master (cool rices, made for arch, needs manual porting)
 https://github.com/brucewayne260/my-awesomewm-dotfiles (cool bar, havent checked out anything else)
 https://github.com/enchanted-coder/dotfiles/tree/main
+https://github.com/cococry/dotfiles/tree/main
 
 terminal themes:
 https://github.com/rose-pine/xfce-terminal
+https://github.com/cococry/dotfiles/tree/main/alacritty
 
 editor themes:
 https://github.com/XXiaoA/nvimrc (nvim)
