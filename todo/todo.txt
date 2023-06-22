@@ -48,7 +48,7 @@ https://www.reddit.com/r/unixporn/comments/13m1ijc/bspwm_updated_rice_codename_k
 
 Rices:
 - gh0stzk
-    - emilia(https://user-images.githubusercontent.com/67278339/221425420-4198afbb-fd7a-41a1-96f2-42c2c715f076.png)
+    - emilia (best one imo )(https://user-images.githubusercontent.com/67278339/221425420-4198afbb-fd7a-41a1-96f2-42c2c715f076.png)
       - TOP
       - Good floating tile bar, gaps on side
       - rice folder : https://github.com/gh0stzk/dotfiles/tree/ccb232c54a1801444f933b8c413e8021473f32ef/config/bspwm/rices/emilia
