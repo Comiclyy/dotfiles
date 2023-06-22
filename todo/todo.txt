@@ -7,7 +7,8 @@ better free command "show available and used memory"
 modify fetch to hide fedora as distro.
 Change up fetch w inspo from unixp
 add icons with nerdfont to fetch (make two versions)
-remove distro refrences from dots, fetch, linux
+remove distro refrences from dots, fetch, lockscreen, linux
+custom lockscreen (swaylock or others)
 
 bar to try:
 https://github.com/L4ze3/Polybar
