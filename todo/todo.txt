@@ -9,10 +9,9 @@ Change up fetch w inspo from unixp
 add icons with nerdfont to fetch (make two versions)
 remove distro refrences from dots, fetch, lockscreen, linux
 custom lockscreen (swaylock or others)
-fix waybar maybe ;D
-add screenshot tool to Polybar
 add color picker to Polybar
-neovim font (rosepinetheme)
+add all the new stuff to readme in dots
+update fetch to old and rename nextgen to 
 
 bar to try:
 https://github.com/L4ze3/Polybar (poly)

@@ -11,24 +11,53 @@ wallpapers
 
 # colors
 
-Current colors:
+Color palette:
 
-Orange
+My color pallet is availble on:
 
-Green
 
-Dark pink
-
-Light pink
+https://rosepinetheme.com/palette/
 
 # What I use
 
-- OS: [Fedora linux](https://fedoraproject.org)
+- OS: [Linux](https://fedoraproject.org)
 - Terminal: [xfce4-terminal](https://www.xfce.org)
 - Shell: [Bash](https://www.gnu.org/software/bash/)
 - Browser: [Firefox](https://www.mozilla.org/en-CA/firefox/products/)
 - Editor: [vscode](https://code.visualstudio.com)
 - Icons: [Papirus-Dark](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
+
+# Exentions (extentions.gnome.org)
+
+user-theme
+gradienttopbar
+Vitals
+add-username-toppanel
+top-bar-organizer
+widgets
+RemoveAppMenu
+no_activities
+logomenu
+transparent-top-bar
+transparent-top-bar
+rounded-window-corners
+azclock
+dash-to-panel
+dash-to-dock
+WallpaperSwitcher
+color-picker
+circular
+github-actions
+hidetopbar
+arcmenu
+apps-menu
+background-logo
+launch-new-instance
+places-menu
+window-list
+pop-shell
+blur-my-shell
+
 
 # fetch 
 
@@ -38,15 +67,15 @@ Light pink
 ![Image](https://raw.githubusercontent.com/Comicly69/dotfiles/main/assets/screen.png)
 
 # bar
-I currently have 2 bars that I use. One comes with my rice (gnome-shell) and the other is a polybar rice. 
 
-The polybar rice is a modified version of the Material bar from a collection of polybars, if you wish to look at them, I will link the repo below
+My bar is made in polybar, You can get it from the rice/polybar folder.
 
-![Polybar collections repo](https://github.com/Murzchnvok/polybar-collection)
+![bar](https://raw.githubusercontent.com/Comicly69/dotfiles/main/assets/bar.png)
+
 <h1></h1>
 To install the polybar, Install base polybar with the following
 
-Install polybar:
+Install polybar:s
 
 Fedora: `sudo dnf install polybar`
 
@@ -57,13 +86,13 @@ Arch (btw): `sudo pacman -S polybar`
 
 Install the config:
 
-`wget` (Coming soon)
+`git clone https://github.com/Comicly69/dotfiles.git` (Coming soon)
 
 
 Move the files to polybar config:
 
-`cd polybar-config`
-`mv * ~/.config/polybar/`
+`cd dotfiles/rice/polybar`
+`cp * ~/.config/polybar/`
 
 
 restart polybar:
@@ -75,7 +104,7 @@ Start it again
 
 `polybar`
 
-# How to change colors:
+# How to change colors of gnome rice (DEPRECATED):
 
 go to gnome-shell
 
@@ -96,10 +125,10 @@ Fetch TODO: `curl -s https://raw.githubusercontent.com/Comicly69/dotfiles/main/t
 Flux is a program for automatically running git commands to commit, push and such easily. Currently flux is very simple and just uses one arugment, if you type flux -s it will fetch the HEAD remote repo
 from github and merge before commiting. if you run it without -s it will just run without syncing to HEAD.
 
-# theme
+# theme (DEPRECATED)
 
 A tool to switch gnome-shell themes. Type `theme <theme>` to change the theme. for example run `theme orange` to change the theme to orange
 
 # Notes:
 
-none 
+I will not be updating my gnome bar rice anymore as I have moved over to polybar.
