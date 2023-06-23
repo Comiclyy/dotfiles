@@ -64,7 +64,7 @@ blur-my-shell
 ![Fetch](https://github.com/Comicly69/dotfiles/blob/main/assets/terminal.png)
 
 # rice
-![Image](https://raw.githubusercontent.com/Comicly69/dotfiles/main/assets/screen.png)
+![Image](https://raw.githubusercontent.com/Comicly69/dotfiles/main/assets/screenza.png)
 
 # bar
 
