@@ -91,7 +91,7 @@ Install the config:
 
 Move the files to polybar config:
 
-`cd dotfiles/rice/polybar`
+`cd dotfiles/rice/polybar/pulse`
 `cp * ~/.config/polybar/`
 
 
