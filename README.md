@@ -135,4 +135,4 @@ A tool to switch gnome-shell themes. Type `theme <theme>` to change the theme. f
 
 # Notes:
 
-I will not be updating my gnome bar rice anymore as I have moved over to polybar.
+I will not be updating my gnome bar rice anymore as I have moved over to polybar. A
