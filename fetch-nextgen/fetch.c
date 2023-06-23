@@ -48,7 +48,7 @@ float getCPUUsage() {
 }
 
 // Function to retrieve memory usage on Linux-based systems
-int getMemoryUsage(int* usedMemory, int* totalMemory) {
+int getMemoryUsage(int* usedMemoryMB, int* totalMemoryMB) {
     FILE* file = fopen("/proc/meminfo", "r");
     if (file == NULL) {
         printf("Failed to open /proc/meminfo file.\n");
@@ -58,9 +58,11 @@ int getMemoryUsage(int* usedMemory, int* totalMemory) {
     char buffer[256];
     while (fgets(buffer, sizeof(buffer), file)) {
         if (strncmp(buffer, "MemTotal:", 9) == 0) {
-            sscanf(buffer + 9, "%d", totalMemory);
+            sscanf(buffer + 9, "%d", totalMemoryMB);
+            *totalMemoryMB /= 1024;  // Convert from kilobytes to megabytes
         } else if (strncmp(buffer, "MemAvailable:", 13) == 0) {
-            sscanf(buffer + 13, "%d", usedMemory);
+            sscanf(buffer + 13, "%d", usedMemoryMB);
+            *usedMemoryMB /= 1024;  // Convert from kilobytes to megabytes
         }
     }
 
@@ -185,12 +187,12 @@ int main() {
     }
 
     printf("           \033[38;5;208mmax\033[1;37m@\033[0m\033[38;5;208mrosepine\033[0m\n");
-    printf("\033[1;37m           \033[0mcpu    \033[38;5;208m%.2f%%\n", cpuPercentage);
-    printf("\033[1;37m   {\\_/}\033[0m   mem  \033[38;5;208m  %d/%d MB\n", usedMemory, totalMemory);
-    printf("\033[1;37m   (●ᴗ●)\033[0m   dsk   \033[38;5;208m (%d%%)\n", usedDisk);
-    printf("\033[1;37m   ( >🥕)\033[0m  ip     \033[38;5;208m%s \033[38;5;202m\033[38;5;208m\n\033[0m", ipAddress);
-    printf("\033[1;37m           \033[0mdistro\033[38;5;208m %s\n", "Linux x86_64");
-    printf("\033[0m\033[1;37m           \033[0mshell\033[0m  \033[38;5;208mbash\n ");
+    printf("\033[1;37m           \033[0m󰻠      \033[38;5;208m%.2f%%\n", cpuPercentage);
+    printf("\033[1;37m   {\\_/}\033[0m   󰍛    \033[38;5;208m  %d/%d MB\n", usedMemory, totalMemory);
+    printf("\033[1;37m   (●ᴗ●)\033[0m   󰋊     \033[38;5;208m (%d%%)\n", usedDisk);
+    printf("\033[1;37m   ( >🥕)\033[0m  󱂇      \033[38;5;208m%s \033[38;5;202m\033[38;5;208m\n\033[0m", ipAddress);
+    printf("\033[1;37m           \033[0m\033[38;5;208m %s\n", "     Linux x86_64");
+    printf("\033[0m\033[1;37m           \033[0m    \033[0m  \033[38;5;208mbash\n ");
     printf("\033[0m"); // Reset color to default
 
     return 0;
