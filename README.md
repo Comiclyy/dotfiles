@@ -104,6 +104,10 @@ Start it again
 
 `polybar`
 
+#vscode theme:
+
+https://rosepinetheme.com/
+
 # How to change colors of gnome rice (DEPRECATED):
 
 go to gnome-shell
