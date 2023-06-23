@@ -27,67 +27,6 @@ https://rosepinetheme.com/palette/
 - Editor: [vscode](https://code.visualstudio.com)
 - Icons: [Papirus-Dark](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 
-# Exentions (extentions.gnome.org)
-
-user-theme
-
-gradient
-
-topbar
-
-Vitals
-
-add-username-toppanel
-
-top-bar-organizer
-
-widgets
-
-RemoveAppMenu
-
-no_activities
-
-logomenu
-
-transparent-top-bar
-
-transparent-top-bar
-
-rounded-window-corners
-
-azclock
-
-dash-to-panel
-
-dash-to-dock
-
-WallpaperSwitcher
-
-color-picker
-
-circular
-
-github-actions
-
-hidetopbar
-
-arcmenu
-
-apps-menu
-
-background-logo
-
-launch-new-instance
-
-places-menu
-
-window-list
-
-pop-shell
-
-blur-my-shell
-
-
 
 # fetch 
 
@@ -162,6 +101,69 @@ from github and merge before commiting. if you run it without -s it will just ru
 # theme (DEPRECATED)
 
 A tool to switch gnome-shell themes. Type `theme <theme>` to change the theme. for example run `theme orange` to change the theme to orange
+
+# Exentions (extentions.gnome.org)
+
+user-theme
+
+gradient
+
+topbar
+
+Vitals
+
+add-username-toppanel
+
+top-bar-organizer
+
+widgets
+
+RemoveAppMenu
+
+no_activities
+
+logomenu
+
+transparent-top-bar
+
+transparent-top-bar
+
+rounded-window-corners
+
+azclock
+
+dash-to-panel
+
+dash-to-dock
+
+WallpaperSwitcher
+
+color-picker
+
+circular
+
+github-actions
+
+hidetopbar
+
+arcmenu
+
+apps-menu
+
+background-logo
+
+launch-new-instance
+
+places-menu
+
+window-list
+
+pop-shell
+
+blur-my-shell
+
+
+
 
 # Notes:
 
