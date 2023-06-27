@@ -1,0 +1,6 @@
+To transfer:
+
+code folder
+update .config
+transfer polybar config
+/usr/local/bin folder
