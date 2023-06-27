@@ -1,5 +1,5 @@
 To transfer:
-
+asdasd
 code folder
 update .config
 transfer polybar config
