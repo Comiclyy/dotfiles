@@ -8,10 +8,8 @@ modify fetch to hide fedora as distro.
 Change up fetch w inspo from unixp
 add icons with nerdfont to fetch (make two versions)
 remove distro refrences from dots, fetch, lockscreen, linux
-custom lockscreen (swaylock or others)
-add color picker to Polybar
-add all the new stuff to readme in dots
-update fetch to old and rename nextgen to 
+custom lockscreen (swaylock wont work)
+setup rofi
 
 bar to try:
 https://github.com/L4ze3/Polybar (poly)
