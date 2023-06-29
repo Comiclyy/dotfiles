@@ -10,6 +10,7 @@ add icons with nerdfont to fetch (make two versions)
 remove distro refrences from dots, fetch, lockscreen, linux
 custom lockscreen (swaylock wont work)
 setup rofi
+do stuff for pc (add all prices together)
 
 bar to try:
 https://github.com/L4ze3/Polybar (poly)
