@@ -12,6 +12,9 @@ custom lockscreen (swaylock wont work)
 setup rofi
 do stuff for pc (add all prices together)
 
+fix % sign in fetch (URGENT)
+Work on arch branch dotfiles
+
 bar to try:
 https://github.com/L4ze3/Polybar (poly)
 https://github.com/gh0stzk/dotfiles (poly I think)
