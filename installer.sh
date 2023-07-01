@@ -14,5 +14,4 @@ if [[ $1 == "fetch" ]]; then
     
     echo -e "\033[38;5;46mMoving fetch to /usr/local/bin\033[0m"
     echo -e "\033[38;5;196mDONE\033[0m"
-    echo "test"
 fi
