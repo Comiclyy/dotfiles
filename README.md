@@ -25,6 +25,7 @@ https://rosepinetheme.com/palette/
 - OS: [Linux](https://archlinux.org)
 - Terminal: [alacrittyl](https://alacritty.org/)
 - Shell: [Zsh](https://www.zsh.org/)
+- WM: [BSPWM](https://github.com/baskerville/bspwm)
 - Browser: [Firefox](https://www.mozilla.org/en-CA/firefox/products/)
 - Editor 1: [vscode](https://code.visualstudio.com)
 - Editor 2: [neovim](https://neovim.io/r)
