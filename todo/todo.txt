@@ -5,15 +5,14 @@ fix mongodb connect on website
 do stuff from mod todo notes
 better free command "show available and used memory"
 modify fetch to hide fedora as distro.
-Change up fetch w inspo from unixp
-add icons with nerdfont to fetch (make two versions)
-remove distro refrences from dots, fetch, lockscreen, linux
 custom lockscreen (swaylock wont work)
-setup rofi
 do stuff for pc (add all prices together)
-
-fix % sign in fetch (URGENT)
 Work on arch branch dotfiles
+make version of fetch with penguin (neofetch --ascii_distro tux)
+add stuff to fetch with inspo from neofetch 
+get inspo for fetch from neocat
+do rss stuff (https://feedly.com/i/my) you need client id and secret
+for newsflash (Local rss feed desktop)
 
 bar to try:
 https://github.com/L4ze3/Polybar (poly)
