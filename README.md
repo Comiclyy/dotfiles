@@ -34,7 +34,7 @@ https://rosepinetheme.com/palette/
 
 # fetch 
 
-![Fetch](https://github.com/Comicly69/dotfiles/blob/main/assets/terminal.png)
+![Fetch](https://github.com/Comicly69/dotfiles/blob/main/assets/yayterminal.png)
 
 # rice
 ![Image](https://raw.githubusercontent.com/Comicly69/dotfiles/main/assets/screenwoo.png)
