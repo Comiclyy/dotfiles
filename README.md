@@ -77,7 +77,7 @@ Start it again
 
 `polybar`
 
-#vscode theme:
+# vscode theme:
 
 https://rosepinetheme.com/
 
