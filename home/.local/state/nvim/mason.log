@@ -1,0 +1,18 @@
+[INFO  Wed 28 Jun 2023 06:27:59 PM] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  Wed 28 Jun 2023 06:27:59 PM] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Wed 28 Jun 2023 06:27:59 PM] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=css-lsp) {}
+[INFO  Wed 28 Jun 2023 06:27:59 PM] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=html-lsp) {}
+[INFO  Wed 28 Jun 2023 06:27:59 PM] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Wed 28 Jun 2023 06:27:59 PM] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=deno) {}
+[INFO  Wed 28 Jun 2023 06:27:59 PM] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=prettier) {}
+[INFO  Wed 28 Jun 2023 06:27:59 PM] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clangd) {}
+[INFO  Wed 28 Jun 2023 06:27:59 PM] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clang-format) {}
+[ERROR Wed 28 Jun 2023 06:27:59 PM] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=css-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Wed 28 Jun 2023 06:27:59 PM] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=html-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Wed 28 Jun 2023 06:27:59 PM] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Wed 28 Jun 2023 06:27:59 PM] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=prettier) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Wed 28 Jun 2023 06:28:00 PM] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=stylua)
+[INFO  Wed 28 Jun 2023 06:28:00 PM] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[INFO  Wed 28 Jun 2023 06:28:01 PM] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=deno)
+[INFO  Wed 28 Jun 2023 06:28:03 PM] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=clang-format)
+[INFO  Wed 28 Jun 2023 06:28:03 PM] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=clangd)

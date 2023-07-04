@@ -1,0 +1,61 @@
+   121.8ms (setup:799): 2023-06-28 19:07:41
+   121.9ms (setup:800): /usr/bin/pipx install docutils
+   121.9ms (setup:801): pipx version is 1.2.0
+   122.0ms (setup:802): Default python interpreter is '/usr/bin/python'
+   122.0ms (mkdir:81): creating directory /home/max/.local/pipx/venvs
+   122.1ms (mkdir:81): creating directory /home/max/.local/pipx/.cache
+   122.1ms (setup:810): Adding CACHEDIR.TAG to cache directory
+   122.9ms (package_name_from_spec:322): Determined package name: docutils
+   122.9ms (package_name_from_spec:323): Package name determined in 0.0s
+   123.3ms (run_subprocess:173): running /usr/bin/python -m venv --without-pip /home/max/.local/pipx/venvs/docutils
+   161.1ms (run_subprocess:186): stdout:
+   161.2ms (run_subprocess:188): stderr:
+   161.2ms (run_subprocess:189): returncode: 0
+   161.6ms (run_subprocess:173): running /usr/bin/python -m venv --clear /home/max/.local/pipx/shared
+  2888.7ms (run_subprocess:186): stdout:
+  2888.8ms (run_subprocess:188): stderr:
+  2888.8ms (run_subprocess:189): returncode: 0
+  2888.9ms (upgrade:91): Upgrading shared libraries in /home/max/.local/pipx/shared
+  2889.2ms (run_subprocess:173): running /home/max/.local/pipx/shared/bin/python -m pip --disable-pip-version-check install --force-reinstall -q --upgrade pip setuptools wheel
+  5557.2ms (run_subprocess:186): stdout:
+  5557.3ms (run_subprocess:188): stderr:
+  5557.3ms (run_subprocess:189): returncode: 0
+  5557.5ms (run_subprocess:173): running /home/max/.local/pipx/venvs/docutils/bin/python -c import sysconfig; print(sysconfig.get_path('purelib'))
+  5569.9ms (run_subprocess:186): stdout: /home/max/.local/pipx/venvs/docutils/lib/python3.11/site-packages
+  5570.0ms (run_subprocess:189): returncode: 0
+  5570.1ms (run_subprocess:173): running /home/max/.local/pipx/shared/bin/python -c import sysconfig; print(sysconfig.get_path('purelib'))
+  5582.0ms (run_subprocess:186): stdout: /home/max/.local/pipx/shared/lib/python3.11/site-packages
+  5582.1ms (run_subprocess:189): returncode: 0
+  5582.2ms (run_subprocess:173): running /home/max/.local/pipx/venvs/docutils/bin/python --version
+  5585.0ms (run_subprocess:186): stdout: Python 3.11.3
+  5585.0ms (run_subprocess:188): stderr:
+  5585.0ms (run_subprocess:189): returncode: 0
+  5585.1ms (_parsed_package_to_package_or_url:147): cleaned package spec: docutils
+  5585.4ms (run_subprocess:173): running /home/max/.local/pipx/venvs/docutils/bin/python -m pip install docutils
+  6392.0ms (run_subprocess:189): returncode: 0
+  6392.4ms (run_subprocess:173): running <fetch_info_in_venv commands>
+  6413.9ms (run_subprocess:186): stdout: {"sys_path": ["/usr/lib/python311.zip", "/usr/lib/python3.11", "/usr/lib/python3.11/lib-dynload", "/home/max/.local/pipx/venvs/docutils/lib/python3.11/site-packages", "/home/max/.local/pipx/shared/lib/python3.11/site-packages"], "python_version": "3.11.3", "environment": {"implementation_name": "cpython", "implementation_version": "3.11.3", "os_name": "posix", "platform_machine": "x86_64", "platform_release": "6.3.9-arch1-1", "platform_system": "Linux", "platform_version": "#1 SMP PREEMPT_DYNAMIC Wed, 21 Jun 2023 20:46:20 +0000", "python_full_version": "3.11.3", "platform_python_implementation": "CPython", "python_version": "3.11", "sys_platform": "linux"}}
+  6414.0ms (run_subprocess:189): returncode: 0
+  6418.9ms (get_venv_metadata_for_package:316): get_venv_metadata_for_package: 27ms
+  6419.0ms (_parsed_package_to_package_or_url:147): cleaned package spec: docutils
+  6419.5ms (_symlink_package_apps:147): ⚠️  Note: docutils was already on your PATH at /usr/bin/docutils
+  6419.7ms (_symlink_package_apps:147): ⚠️  Note: rst2html.py was already on your PATH at /usr/bin/rst2html.py
+  6419.8ms (_symlink_package_apps:147): ⚠️  Note: rst2html4.py was already on your PATH at
+    /usr/bin/rst2html4.py
+  6420.0ms (_symlink_package_apps:147): ⚠️  Note: rst2html5.py was already on your PATH at
+    /usr/bin/rst2html5.py
+  6420.2ms (_symlink_package_apps:147): ⚠️  Note: rst2latex.py was already on your PATH at
+    /usr/bin/rst2latex.py
+  6420.3ms (_symlink_package_apps:147): ⚠️  Note: rst2man.py was already on your PATH at /usr/bin/rst2man.py
+  6420.5ms (_symlink_package_apps:147): ⚠️  Note: rst2odt.py was already on your PATH at /usr/bin/rst2odt.py
+  6420.7ms (_symlink_package_apps:147): ⚠️  Note: rst2odt_prepstyles.py was already on your PATH at
+    /usr/bin/rst2odt_prepstyles.py
+  6420.8ms (_symlink_package_apps:147): ⚠️  Note: rst2pseudoxml.py was already on your PATH at
+    /usr/bin/rst2pseudoxml.py
+  6421.0ms (_symlink_package_apps:147): ⚠️  Note: rst2s5.py was already on your PATH at /usr/bin/rst2s5.py
+  6421.2ms (_symlink_package_apps:147): ⚠️  Note: rst2xetex.py was already on your PATH at
+    /usr/bin/rst2xetex.py
+  6421.3ms (_symlink_package_apps:147): ⚠️  Note: rst2xml.py was already on your PATH at /usr/bin/rst2xml.py
+  6421.5ms (_symlink_package_apps:147): ⚠️  Note: rstpep2html.py was already on your PATH at
+    /usr/bin/rstpep2html.py
+  6423.0ms (cli:874): pipx finished.

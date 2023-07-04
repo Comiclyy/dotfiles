@@ -1,0 +1,41 @@
+   111.0ms (setup:799): 2023-06-30 23:29:55
+   111.2ms (setup:800): /usr/bin/pipx install hcitool
+   111.3ms (setup:801): pipx version is 1.2.0
+   111.5ms (setup:802): Default python interpreter is '/usr/bin/python'
+   114.0ms (package_name_from_spec:322): Determined package name: hcitool
+   114.2ms (package_name_from_spec:323): Package name determined in 0.0s
+   115.5ms (run_subprocess:173): running /usr/bin/python -m venv --without-pip /home/max/.local/pipx/venvs/hcitool
+   159.1ms (run_subprocess:186): stdout:
+   159.1ms (run_subprocess:188): stderr:
+   159.2ms (run_subprocess:189): returncode: 0
+   160.0ms (run_subprocess:173): running /home/max/.local/pipx/venvs/hcitool/bin/python -c import sysconfig; print(sysconfig.get_path('purelib'))
+   171.5ms (run_subprocess:186): stdout: /home/max/.local/pipx/venvs/hcitool/lib/python3.11/site-packages
+   171.6ms (run_subprocess:189): returncode: 0
+   171.7ms (run_subprocess:173): running /home/max/.local/pipx/shared/bin/python -c import sysconfig; print(sysconfig.get_path('purelib'))
+   184.6ms (run_subprocess:186): stdout: /home/max/.local/pipx/shared/lib/python3.11/site-packages
+   184.6ms (run_subprocess:189): returncode: 0
+   184.8ms (run_subprocess:173): running /home/max/.local/pipx/venvs/hcitool/bin/python --version
+   187.5ms (run_subprocess:186): stdout: Python 3.11.3
+   187.6ms (run_subprocess:188): stderr:
+   187.6ms (run_subprocess:189): returncode: 0
+   187.7ms (_parsed_package_to_package_or_url:147): cleaned package spec: hcitool
+   188.0ms (run_subprocess:173): running /home/max/.local/pipx/venvs/hcitool/bin/python -m pip install hcitool
+   816.1ms (run_subprocess:189): returncode: 1
+   816.2ms (subprocess_post_check_handle_pip_error:335): '/home/max/.local/pipx/venvs/hcitool/bin/python -m pip install hcitool' failed
+   816.4ms (subprocess_post_check_handle_pip_error:352): Fatal error from pip prevented installation. Full pip output in file:
+    /home/max/.local/pipx/logs/cmd_2023-06-30_23.29.55_pip_errors.log
+   817.3ms (rmdir:55): removing directory /home/max/.local/pipx/venvs/hcitool
+   817.7ms (cli:866): PipxError: Error installing hcitool.
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/pipx/main.py", line 863, in cli
+    return run_pipx_command(parsed_pipx_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/pipx/main.py", line 214, in run_pipx_command
+    return commands.install(
+           ^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/pipx/commands/install.py", line 60, in install
+    venv.install_package(
+  File "/usr/lib/python3.11/site-packages/pipx/venv.py", line 253, in install_package
+    raise PipxError(
+pipx.util.PipxError: Error installing hcitool.
+   818.4ms (cli:874): pipx finished.

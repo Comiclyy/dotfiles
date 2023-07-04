@@ -1,0 +1,2 @@
+2023-07-02 22:06:27.744 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/max/.config/alacritty/alacritty.yml","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-07-02 22:06:31.346 [info] [perf] Render performance baseline is 38ms

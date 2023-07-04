@@ -1,0 +1,12 @@
+[default-routes]
+alsa_card.pci-0000_00_1f.3:output:analog-output-speaker:channelMap=FL;FR;
+alsa_card.pci-0000_00_1f.3:output:analog-output-speaker:channelVolumes=0.6762855052948;0.6762855052948;
+alsa_card.pci-0000_00_1f.3:output:analog-output-speaker:latencyOffsetNsec=0
+alsa_card.pci-0000_00_1f.3:profile:output:analog-stereo+input:analog-stereo=analog-output-speaker;
+bluez_card.D8_AA_59_C3_B1_8F:output:headset-hf-output:channelMap=MONO;
+bluez_card.D8_AA_59_C3_B1_8F:output:headset-hf-output:channelVolumes=1.0;
+bluez_card.D8_AA_59_C3_B1_8F:output:headset-output:channelMap=FL;FR;
+bluez_card.D8_AA_59_C3_B1_8F:output:headset-output:channelVolumes=0.18221592903137;0.18221592903137;
+bluez_card.D8_AA_59_C3_B1_8F:output:headset-output:latencyOffsetNsec=0
+bluez_card.D8_AA_59_C3_B1_8F:profile:a2dp-sink-aac=headset-output;
+bluez_card.D8_AA_59_C3_B1_8F:profile:headset-head-unit-msbc=headset-hf-output;

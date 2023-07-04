@@ -103,7 +103,12 @@
             "enabled": true
         },
         "CustomRPC": {
-            "enabled": false
+            "enabled": true,
+            "type": 0,
+            "appID": "992934088937836594",
+            "appName": "Arch linux",
+            "imageBig": "https://r2.e-z.host/4e0d88de-fc17-4b17-98fe-a54b1692393f/7bm1m9km.png",
+            "startTime": 1688490907
         },
         "DisableDMCallIdle": {
             "enabled": false
@@ -123,8 +128,7 @@
             "enableStickerBypass": true,
             "enableStreamQualityBypass": true,
             "transformStickers": true,
-            "transformEmojis": true,
-            "transformCompoundSentence": false
+            "transformEmojis": true
         },
         "FakeProfileThemes": {
             "enabled": false
@@ -240,7 +244,10 @@
         "oneko": {
             "enabled": false
         },
-        "Party mode 🎉": {
+        "OpenInApp": {
+            "enabled": false
+        },
+        "Party mode \ud83c\udf89": {
             "enabled": false
         },
         "PermissionsViewer": {
@@ -307,7 +314,9 @@
             "enabled": false
         },
         "ShowHiddenChannels": {
-            "enabled": true
+            "enabled": true,
+            "showMode": 0,
+            "hideUnreads": true
         },
         "ShowMeYourName": {
             "enabled": false
@@ -410,6 +419,6 @@
         "authenticated": false,
         "url": "https://api.vencord.dev/",
         "settingsSync": false,
-        "settingsSyncVersion": 1687533323413
+        "settingsSyncVersion": 1688350475143
     }
 }

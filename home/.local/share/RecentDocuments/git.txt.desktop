@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-plain
+Name=git.txt
+Type=Link
+URL[$e]=file:///run/media/max/fedora_localhost-live/home/max/git.txt
+X-KDE-LastOpenedWith=geany

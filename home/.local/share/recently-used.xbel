@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/max/Downloads/bspwm.zip" added="2023-06-28T22:17:22.113859Z" modified="2023-06-28T22:20:55.724053Z" visited="2023-06-28T22:17:22.113860Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-06-28T22:20:55.724051Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Downloads/home.zip" added="2023-06-28T22:17:25.934357Z" modified="2023-06-28T22:17:25.934363Z" visited="2023-06-28T22:17:25.934357Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-06-28T22:17:25.934359Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Downloads/pamela.zip" added="2023-06-28T22:17:29.302841Z" modified="2023-06-28T22:17:29.302850Z" visited="2023-06-28T22:17:29.302842Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-06-28T22:17:29.302845Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Downloads/icu-release-73-2.tar.gz" added="2023-06-28T22:40:41.842476Z" modified="2023-06-28T22:40:41.842485Z" visited="2023-06-28T22:40:41.842477Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-06-28T22:40:41.842478Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="trash:///" added="2023-06-28T22:41:12.348738Z" modified="2023-06-28T22:41:12.348743Z" visited="2023-06-28T22:41:12.348740Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-06-28T22:41:12.348741Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max" added="2023-06-28T22:41:14.147208Z" modified="2023-06-28T22:41:14.147218Z" visited="2023-06-28T22:41:14.147209Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-06-28T22:41:14.147213Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/installs" added="2023-06-28T22:41:16.304092Z" modified="2023-06-28T22:41:16.304102Z" visited="2023-06-28T22:41:16.304093Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-06-28T22:41:16.304097Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/installs/icu" added="2023-06-28T22:41:22.556910Z" modified="2023-06-28T22:41:22.556919Z" visited="2023-06-28T22:41:22.556911Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-06-28T22:41:22.556914Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/rpcimage.png" added="2023-06-29T21:03:13.369366Z" modified="2023-06-29T21:08:14.211287Z" visited="2023-06-29T21:03:13.369368Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-06-29T21:08:14.211282Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Downloads/rpcimage-removebg-preview.png" added="2023-06-29T21:05:02.733387Z" modified="2023-06-29T21:05:02.733392Z" visited="2023-06-29T21:05:02.733388Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-06-29T21:05:02.733390Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Downloads/rpcimage-fotor-bg-remover-2023062917832.png" added="2023-06-29T21:08:32.826385Z" modified="2023-06-29T21:09:48.003961Z" visited="2023-06-29T21:08:32.826387Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-06-29T21:09:48.003954Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Downloads/spicetify-marketplace.zip" added="2023-07-01T00:36:30.851167Z" modified="2023-07-01T00:36:30.851171Z" visited="2023-07-01T00:36:30.851167Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-07-01T00:36:30.851169Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Downloads/spicetify-marketplace-dist" added="2023-07-01T00:38:00.467426Z" modified="2023-07-01T00:38:00.467430Z" visited="2023-07-01T00:38:00.467426Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-07-01T00:38:00.467428Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Downloads/spicetify-marketplace-dist/extension.js" added="2023-07-01T00:38:06.113924Z" modified="2023-07-01T00:38:06.113927Z" visited="2023-07-01T00:38:06.113924Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-07-01T00:38:06.113925Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/dotfiles/config/alacritty/alacritty.yml" added="2023-07-01T01:16:37.756589Z" modified="2023-07-01T01:16:37.756592Z" visited="2023-07-01T01:16:37.756589Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-yaml"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-07-01T01:16:37.756591Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Downloads/spicetify-marketplace(1).zip" added="2023-07-01T01:22:24.597410Z" modified="2023-07-01T01:22:24.597415Z" visited="2023-07-01T01:22:24.597411Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-07-01T01:22:24.597412Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Downloads/marketplace.zip" added="2023-07-01T01:22:38.983219Z" modified="2023-07-01T01:22:38.983222Z" visited="2023-07-01T01:22:38.983219Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-07-01T01:22:38.983220Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Pictures/ScreenShots/ShoT_2023-06-30-09-39-31_1920x1080.png" added="2023-07-01T01:40:09.779000Z" modified="2023-07-01T01:40:09.779000Z" visited="2023-07-01T01:40:09.779000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="viewnior" exec="viewnior %F %u" modified="2023-07-01T01:40:09.779000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Downloads/screenwoo.png" added="2023-07-01T01:42:51.532233Z" modified="2023-07-01T01:42:51.532283Z" visited="2023-07-01T01:42:51.532269Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-07-01T01:42:51.532276Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Downloads/barwoo.png" added="2023-07-01T01:43:51.919399Z" modified="2023-07-01T01:43:51.919425Z" visited="2023-07-01T01:43:51.919401Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-07-01T01:43:51.919414Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Downloads/code.zip" added="2023-07-01T02:37:30.367698Z" modified="2023-07-01T02:37:30.367703Z" visited="2023-07-01T02:37:30.367698Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-07-01T02:37:30.367700Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/max/fedora_localhost-live/home/max/git.txt" added="2023-07-01T04:04:55.593000Z" modified="2023-07-01T04:04:55.838148Z" visited="2023-07-01T04:04:55.593000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-07-01T04:04:55.838148Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Pictures/ScreenShots/ShoT_2023-07-01-12-04-19_1920x1080.png" added="2023-07-01T04:05:24.986000Z" modified="2023-07-01T04:05:24.986000Z" visited="2023-07-01T04:05:24.986000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="viewnior" exec="viewnior %F %u" modified="2023-07-01T04:05:24.986000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Pictures/ScreenShots/ShoT_2023-07-01-12-06-00_1920x1080.png" added="2023-07-01T04:06:07.360000Z" modified="2023-07-01T04:06:07.360000Z" visited="2023-07-01T04:06:07.360000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="viewnior" exec="viewnior %F %u" modified="2023-07-01T04:06:07.360000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Pictures/ScreenShots/ShoT_2023-07-01-12-06-19_1920x1080.png" added="2023-07-01T04:06:22.529000Z" modified="2023-07-01T04:06:22.529000Z" visited="2023-07-01T04:06:22.529000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="viewnior" exec="viewnior %F %u" modified="2023-07-01T04:06:22.529000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Pictures/ScreenShots/screenwoo.png" added="2023-07-01T04:07:47.014300Z" modified="2023-07-01T04:07:47.014318Z" visited="2023-07-01T04:07:47.014303Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-07-01T04:07:47.014309Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Pictures/ScreenShots/ShoT_2023-07-01-12-50-05_1920x1080.png" added="2023-07-01T16:50:29.778000Z" modified="2023-07-01T16:50:29.778000Z" visited="2023-07-01T16:50:29.778000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="viewnior" exec="viewnior %F %u" modified="2023-07-01T16:50:29.778000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Pictures/ScreenShots/ShoT_2023-07-01-12-50-50_1920x1080.png" added="2023-07-01T16:50:57.517000Z" modified="2023-07-01T17:03:38.792000Z" visited="2023-07-01T17:03:38.792000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="viewnior" exec="viewnior %F %u" modified="2023-07-01T17:03:38.792000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Downloads/GrabberSetupV4.zip" added="2023-07-01T23:23:37.862057Z" modified="2023-07-01T23:23:37.862061Z" visited="2023-07-01T23:23:37.862058Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-07-01T23:23:37.862059Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Downloads/56n7wXKh.rss" added="2023-07-02T04:28:38.749135Z" modified="2023-07-02T04:28:38.749141Z" visited="2023-07-02T04:28:38.749136Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/rss+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-07-02T04:28:38.749139Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Pictures/bug-2023-07-02_19.16.24.mkv" added="2023-07-02T23:17:04.326158Z" modified="2023-07-02T23:17:18.160044Z" visited="2023-07-02T23:17:04.326160Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mplayer %F&apos;" modified="2023-07-02T23:17:04.326163Z" count="1"/>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2023-07-02T23:17:18.160042Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/.bash_history" added="2023-07-02T23:20:48.115775Z" modified="2023-07-02T23:20:48.408402Z" visited="2023-07-02T23:20:48.115777Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;geany %F&apos;" modified="2023-07-02T23:20:48.115781Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-07-02T23:20:48.408401Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/.zsh_history" added="2023-07-02T23:20:56.067583Z" modified="2023-07-02T23:20:56.067585Z" visited="2023-07-02T23:20:56.067583Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-07-02T23:20:56.067584Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/.zcompdump-max-nitroan51555-5.9" added="2023-07-02T23:21:13.712341Z" modified="2023-07-02T23:21:13.971345Z" visited="2023-07-02T23:21:13.712341Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;geany %F&apos;" modified="2023-07-02T23:21:13.712343Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-07-02T23:21:13.971344Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Downloads/Win11.tar.xz" added="2023-07-02T23:29:19.753073Z" modified="2023-07-02T23:29:19.753079Z" visited="2023-07-02T23:29:19.753074Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-07-02T23:29:19.753075Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/.icons/test" added="2023-07-02T23:30:22.895246Z" modified="2023-07-02T23:30:22.895255Z" visited="2023-07-02T23:30:22.895247Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-07-02T23:30:22.895253Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Pictures/ScreenShots/ShoT_2023-07-02-09-15-09_1920x1080.png" added="2023-07-03T01:15:30.052370Z" modified="2023-07-03T01:15:30.052373Z" visited="2023-07-03T01:15:30.052371Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;viewnior %F&apos;" modified="2023-07-03T01:15:30.052371Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Pictures/ScreenShots/yayterminal.png" added="2023-07-03T01:17:17.731463Z" modified="2023-07-03T01:17:17.731474Z" visited="2023-07-03T01:17:17.731464Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-07-03T01:17:17.731468Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/id" added="2023-07-03T01:34:09.059249Z" modified="2023-07-03T01:34:09.326984Z" visited="2023-07-03T01:34:09.059250Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;geany %F&apos;" modified="2023-07-03T01:34:09.059253Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-07-03T01:34:09.326983Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Downloads/Untitled.atom" added="2023-07-03T02:41:04.224083Z" modified="2023-07-03T02:41:06.014597Z" visited="2023-07-03T02:41:04.224084Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-07-03T02:41:04.224085Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-07-03T02:41:06.014596Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/liecnce.png" added="2023-07-03T02:59:26.498609Z" modified="2023-07-03T02:59:33.575848Z" visited="2023-07-03T02:59:26.498612Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-07-03T02:59:33.575846Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Downloads/mmymods.zip" added="2023-07-03T03:30:32.432913Z" modified="2023-07-03T03:30:32.432919Z" visited="2023-07-03T03:30:32.432914Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-07-03T03:30:32.432917Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Downloads/minceraft" added="2023-07-03T03:30:48.594063Z" modified="2023-07-03T03:30:48.594067Z" visited="2023-07-03T03:30:48.594064Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-07-03T03:30:48.594065Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Downloads/fabric-installer-0.11.2.jar" added="2023-07-03T03:32:52.714501Z" modified="2023-07-03T17:34:25.931499Z" visited="2023-07-03T03:32:52.714503Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-07-03T03:32:52.714505Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;xarchiver %f&apos;" modified="2023-07-03T17:34:25.931495Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Downloads/jre-8u371-linux-x64.tar.gz" added="2023-07-03T03:33:44.738802Z" modified="2023-07-03T03:33:44.738809Z" visited="2023-07-03T03:33:44.738802Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-07-03T03:33:44.738805Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Downloads/jre-8u371-linux-x64/jre1.8.0_371/README" added="2023-07-03T03:33:56.513470Z" modified="2023-07-03T03:33:56.513473Z" visited="2023-07-03T03:33:56.513471Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-07-03T03:33:56.513472Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Downloads/Lunar%20Client-2.15.1.AppImage" added="2023-07-03T03:52:46.730225Z" modified="2023-07-03T03:52:46.730240Z" visited="2023-07-03T03:52:46.730227Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-07-03T03:52:46.730233Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/max/Downloads/fabric-installer-0.11.2(1).jar" added="2023-07-03T17:33:10.678423Z" modified="2023-07-03T17:33:13.898767Z" visited="2023-07-03T17:33:10.678424Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-07-03T17:33:10.678425Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;xarchiver %f&apos;" modified="2023-07-03T17:33:13.898765Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/max/fedora_localhost-live/home/max/ex.png" added="2023-07-04T17:01:13.863721Z" modified="2023-07-04T17:01:13.863724Z" visited="2023-07-04T17:01:13.863722Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;viewnior %F&apos;" modified="2023-07-04T17:01:13.863723Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/max/fedora_localhost-live/home/max/nohup.out" added="2023-07-04T17:02:53.053471Z" modified="2023-07-04T17:02:53.053474Z" visited="2023-07-04T17:02:53.053471Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-07-04T17:02:53.053472Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

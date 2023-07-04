@@ -1,0 +1,7 @@
+PIP STDOUT
+----------
+
+PIP STDERR
+----------
+ERROR: Could not find a version that satisfies the requirement hcitool (from versions: none)
+ERROR: No matching distribution found for hcitool

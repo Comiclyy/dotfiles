@@ -1,0 +1,1 @@
+/home/max/.local/pipx/venvs/docutils/bin/rst2xetex.py

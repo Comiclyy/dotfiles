@@ -1,0 +1,2 @@
+2023-07-02 22:04:08.861 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/max/.config/bspwm/bspwmrc","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-07-02 22:04:12.517 [info] [perf] Render performance baseline is 40ms
