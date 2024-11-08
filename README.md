@@ -9,9 +9,9 @@ Everything included:
 
 Programs/Scripts that I use/made
 
-Linux rices
+Visual Tweaks
 
-wallpapers
+Wallpapers
 
 # colors
 
@@ -24,11 +24,10 @@ https://rosepinetheme.com/palette/
 
 # What I use
 
-- OS: [Linux](https://archlinux.org)
+- OS: [MacOS](https://www.apple.com/mac/)
 - Terminal: [alacrittyl](https://alacritty.org/)
 - Shell: [Zsh](https://www.zsh.org/)
-- WM: [BSPWM](https://github.com/baskerville/bspwm)
-- Browser: [Firefox](https://www.mozilla.org/en-CA/firefox/products/)
+- Browser: [Vivaldi](https://vivaldi.com)
 - Editor 1: [vscode](https://code.visualstudio.com)
 - Editor 2: [neovim](https://neovim.io/r)
 - Icons: [Papirus-Dark](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
@@ -40,44 +39,6 @@ https://rosepinetheme.com/palette/
 
 # rice
 ![Image](https://raw.githubusercontent.com/Comicly69/dotfiles/main/assets/screenwoo.png)
-
-# bar
-
-My bar is made in polybar, You can get it from the rice/polybar folder.
-
-![bar](https://raw.githubusercontent.com/Comicly69/dotfiles/main/assets/barwoo.png)
-
-<h1></h1>
-To install the polybar, Install base polybar with the following
-
-Install polybar:s
-
-Fedora: `sudo dnf install polybar`
-
-Debian: `sudo apt install polybar`
-
-Arch (btw): `sudo pacman -S polybar`
-<h1></h1>
-
-Install the config:
-
-`git clone https://github.com/Comicly69/dotfiles.git`
-
-
-Move the files to polybar config:
-
-`cd dotfiles/rice/polybar/pamela`
-`cp * ~/.config/polybar/`
-
-
-restart polybar:
-
-`killall polybar`
-
-
-Start it again
-
-`polybar`
 
 # vscode theme:
 
