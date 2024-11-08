@@ -1,7 +1,7 @@
 # THIS IS THE BRANCH FOR MACOS 
 IF YOU ARE LOOKING FOR GNOME, GO [HERE](https://github.com/Comicly69/dotfiles/tree/dotfiles-gnome)
 
-IF YOU ARE LOOKING FOR ARCH, GO [HERE](https://github.com/Comicly69/dotfiles/tree/arch)
+IF YOU ARE LOOKING FOR ARCH, GO [HERE](https://github.com/Comicly69/dotfiles/tree/Arch)
 # dotfiles
 
 
