@@ -1,16 +1,8 @@
 <div align="center">
 
-# ☁️ daydream
+# ☁️ comicly
 # dotfiles
 <div align="left">
-
-Everything included:
-
-Programs/Scripts that I use/made
-
-Visual Tweaks
-
-Wallpapers
 
 # colors
 
@@ -46,8 +38,6 @@ https://rosepinetheme.com/
 # todo
 
 Fetch TODO: `curl -s https://raw.githubusercontent.com/Comicly69/dotfiles/main/todo/todo.txt | cat`
-from github and merge before commiting. if you run it without -s it will just run without syncing to HEAD.
-
 
 # Notes:
 
