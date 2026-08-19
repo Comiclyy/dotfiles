@@ -2,7 +2,7 @@
 
 # ☁️ daydream
 # dotfiles
-
+<div align="left">
 
 Everything included:
 
