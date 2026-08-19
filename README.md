@@ -1,7 +1,6 @@
-# THIS IS THE BRANCH FOR ARCH/ENDEVOUR 
-IF YOU ARE LOOKING FOR GNOME, GO [HERE](https://github.com/Comicly69/dotfiles/tree/dotfiles-gnome)
+<div align="center">
 
-IF YOU ARE LOOKING FOR MACOS, GO [HERE](https://github.com/Comicly69/dotfiles/tree/macos)
+# ☁️ daydream
 # dotfiles
 
 
