@@ -6,11 +6,6 @@
 
 # colors
 
-Color palette:
-
-My color pallet is availble on:
-
-
 https://rosepinetheme.com/palette/
 
 # What I use
@@ -34,11 +29,3 @@ https://rosepinetheme.com/palette/
 # vscode theme:
 
 https://rosepinetheme.com/
-
-# todo
-
-Fetch TODO: `curl -s https://raw.githubusercontent.com/Comicly69/dotfiles/main/todo/todo.txt | cat`
-
-# Notes:
-
-Pizza!
