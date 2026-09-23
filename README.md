@@ -24,7 +24,7 @@ https://rosepinetheme.com/palette/
 
 # fetch 
 
-![Fetch](https://github.com/Comiclyy/dotfiles/macos/assets/macterm.png)
+![Fetch](https://github.com/Comiclyy/dotfiles/blob/macos/assets/macterm.png?raw=true)
 
 
 
